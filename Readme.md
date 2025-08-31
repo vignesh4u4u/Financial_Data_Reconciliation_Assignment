@@ -62,7 +62,7 @@ Before running the project, ensure you have:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/vignesh4u4u/Financial_Data_Reconciliation_Assignment.git
 cd Financial_Data_Reconciliation_Assignment
 ```
 
@@ -175,4 +175,5 @@ python src/financial_data_report.py
 ---
 
 ✨ With this setup, the system can autonomously reconcile ERP vs Bank data, classify discrepancies, and produce clear, AI-powered reports.
+
 
