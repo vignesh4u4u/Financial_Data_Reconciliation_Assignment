@@ -1,0 +1,14 @@
+crewai
+crewai[tools]
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+PyMuPDF
+seaborn
+python-dotenv
+pdfplumber
+
+
+
+# python.exe -m pip install --no-cache-dir -r .\requirements.txt
